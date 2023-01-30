@@ -52,4 +52,4 @@ async def refresh():
     
     driver.quit()
     
-bot.run('MTA2ODQyNDAyNDk2NDczNDk3Ng.GRgpQk.2QZv57P0baeJqEJHaEz9-zBUqlFAYaoRsqUqjU')
+bot.run('Token-Key')
